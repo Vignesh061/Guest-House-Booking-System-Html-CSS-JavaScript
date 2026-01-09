@@ -14,6 +14,7 @@ HomyStay is a responsive **Guest House Booking System** built using **HTML, CSS,
 - **HTML** - Structure of the website.
 - **CSS** - Styling and responsiveness.
 - **JavaScript** - Interactivity and functionality.
+- **Python** - Backend.
 
 ## Installation
 
